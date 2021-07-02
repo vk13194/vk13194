@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vk13194
+- 👋 Hi, I’m vijay kumar
 - 👀 I’m interested in react js, vue js, node js, tailwin css, mongodb, redux, redux-toolkit, next js
 - 🌱 I’m currently learning react js node js redux  redux-toolkit
 - 💞️ I’m looking to collaborate on ...
